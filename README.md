@@ -1,4 +1,6 @@
-# Myntra-Clone-HTML-CSS
+# Myntra-Clone-Landing-Page-Responsive-Design
 
 
-Website DeployMent Link: https://dev-ssb.github.io/Myntra-Clone-HTML-CSS-Responsive/
+Web Link: https://www.myntra.com/
+
+Deploy Link: https://dev-ssb.github.io/Myntra-Clone-Landing-Page-Responsive-Design/
